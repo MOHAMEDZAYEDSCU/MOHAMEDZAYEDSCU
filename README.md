@@ -7,15 +7,14 @@
   <img src="https://komarev.com/ghpvc/?username=your-username&color=blue" alt="Profile Views"/>
 </p>
 <p align="center">🌱 Currently learning <strong>Python</strong>, <strong>Microcontroller Interface</strong>, and <strong>Automotive Programming</strong></p>
-<p align="center">📫 Reach out to me at <a href="mailto:mohamedzayedgaber11@gmail.com">mohamedzayedgaber11@gmail.com</a></p>
+<p align="center">📫 Reach out to me with <a href="mailto:mohamedzayedgaber111@gmail.com"> My G-Mail</a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/mohamed33385443" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/mohamed-zayed-362255255/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://fb.com/profile.php?id=100060016082045" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/Mo7amed_Zayed" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/mohamedzayedgab1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/Mo7amed_Zayed?hr_r=1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
