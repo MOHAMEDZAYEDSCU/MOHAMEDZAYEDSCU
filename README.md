@@ -3,6 +3,9 @@
 </p>
 
 <h2 align="center"> A passionate Software Engineer </h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&color=blue" alt="Profile Views"/>
+</p>
 <p align="center">🌱 Currently learning <strong>Python</strong>, <strong>Microcontroller Interface</strong>, and <strong>Automotive Programming</strong></p>
 <p align="center">📫 Reach out to me at <a href="mailto:mohamedzayedgaber11@gmail.com">mohamedzayedgaber11@gmail.com</a></p>
 
