@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=your-username&color=blue" alt="Profile Views"/>
 </p>
 <p align="center">🌱 Currently learning <strong>Python</strong>, <strong>Microcontroller Interface</strong>, and <strong>Automotive Programming</strong></p>
-<p align="center">📫 Reach out to me with <a href="mailto:mohamedzayedgaber111@gmail.com"> My G-Mail</a></p>
+<p align="center">📫 Reach out to me by <a href="mailto:mohamedzayedgaber111@gmail.com"> My G-Mail</a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
