@@ -24,6 +24,9 @@
 └───────────────────────────▰▰▰
 </pre>
 
+
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/mohamed33385443" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
@@ -31,6 +34,7 @@
   <a href="https://codeforces.com/profile/Mo7amed_Zayed" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/Mo7amed_Zayed?hr_r=1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -43,7 +47,7 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedzayedscu&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedzayedscu&layout=compact&hide_border=true&theme=merko" alt="Top Languages">
 </p>
 
 <p align="center">
