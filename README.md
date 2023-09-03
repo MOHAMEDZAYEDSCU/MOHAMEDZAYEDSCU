@@ -10,7 +10,7 @@
 
 ┌──┤ WHO_AM_I ├─────────────▰▰▰
 │
-├─▣ Software Engineer Student at Suez Canal Universite
+├─▣ Software Engineering Student at Suez Canal Universite
 ├─▣ From Egypt
 ├─▣ Currently learning Python, Microcontroller Interface and Automotive Programming
 │
