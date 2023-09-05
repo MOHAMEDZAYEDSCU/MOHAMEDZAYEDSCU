@@ -6,8 +6,8 @@
 
 <h2 align="center"> A passionate Software Engineer </h2>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=your-username&color=blue" alt="Profile Views"/></p>  <!----- profile views ------>
-
+<p align="center"><img src="https://komarev.com/ghpvc/?username=your-username&color=00008B&style=flat-square&label=Profile+Views&color=1E90FF&logo=GitHub" alt="Profile Views"/></p>
+  
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- personal_info ------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -53,7 +53,7 @@
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/></a>
+  <a href="https://www.vim.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
   <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a>
