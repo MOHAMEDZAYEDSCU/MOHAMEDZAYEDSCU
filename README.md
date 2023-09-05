@@ -34,7 +34,7 @@
 <!--- -- Social -------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<h2 align="left"><img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Connect-with-me.gif" width="100"> Connect with me: </h2>
+<h2 align="left"><img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Connect-with-me.gif" width="80"> Connect with me: </h2>
 
 <p align="center">
   <a href="https://twitter.com/mohamed33385443" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="35" width="45" /></a>&nbsp;
