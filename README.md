@@ -66,9 +66,17 @@
 <h2 align="left"> :fire: Statics </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedzayedscu&bg_color=121212&title_color=1E90FF&text_color=00FF00&icon_color=808080&theme=tokyonight" alt="GitHub Contributions"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedzayedscu&theme=merko" alt="GitHub Streak"/>
-</p>                                           
-                                            <!----- Streak & contribution ------>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=mohamedzayedscu&bg_color=121212&title_color=1E90FF&text_color=00FF00&icon_color=808080&theme=tokyonight" alt="GitHub Contributions"/>
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedzayedscu&theme=merko" alt="GitHub Streak"/>
+</td>
+</tr>
+</table>
+</p>
+                                          
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedzayedscu&layout=compact&bg_color=121212&theme=tokyonight" alt="Top Languages"></p>  <!----- Languages used ------>
 
