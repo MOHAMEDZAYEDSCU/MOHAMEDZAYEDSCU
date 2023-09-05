@@ -70,7 +70,7 @@
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedzayedscu&count=true&bg_color=121212&title_color=1E90FF&text_color=00FF00&icon_color=808080&theme=tokyonight" alt="GitHub Contributions"/>
+<img alt="Zayed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohamedzayedscu&show_icons=true&count_private=true&locale=en&bg_color=121212&title_color=1E90FF&text_color=00FF00&theme=merko" />
 </td>
 <td>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedzayedscu&theme=merko" alt="GitHub Streak"/>
