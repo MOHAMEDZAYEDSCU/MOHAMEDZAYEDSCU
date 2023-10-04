@@ -6,8 +6,9 @@
 
 <h2 align="center"> A passionate Software Engineer </h2>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=your-username&color=00008B&style=flat-square&label=Profile+Views&color=1E90FF&logo=GitHub" alt="Profile Views"/></p>
-  
+<!--p align="center"><img src="https://komarev.com/ghpvc/?username=MOHAMEDZAYEDSCU&color=00008B&style=flat-square&label=Profile+Views&color=1E90FF&logo=GitHub" alt="Profile Views"/></p>
+<br><br>
+
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- personal_info ------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -34,11 +35,11 @@
 <!--- -- Social -------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<h2 align="left"><img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Connect-with-me.gif" width="80"> Connect with me: </h2>
+<h2 align="left"><img src="https://github.com/MOHAMEDZAYEDSCU/MOHAMEDZAYEDSCU/assets/118567156/0ba08725-8a6c-4548-b8da-e53bddbfaf06" width="85"> Connect with me: </h2>
 
 <p align="center">
   <a href="https://twitter.com/mohamed33385443" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="35" width="45" /></a>&nbsp;
-  <a href="https://linkedin.com/in/mohamed-zayed-362255255/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" /></a>&nbsp;
+  <a href="https://linkedin.com/in/mohamed-zayed-362255255/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;
   <a href="https://codeforces.com/profile/Mo7amed_Zayed" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="35" width="45" /></a>&nbsp;
   <a href="https://www.hackerrank.com/Mo7amed_Zayed?hr_r=1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="35" width="45" /></a>
 </p>
@@ -80,5 +81,4 @@
 </p>
                                           
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedzayedscu&layout=compact&bg_color=121212&theme=tokyonight" alt="Top Languages"></p>  <!----- Languages used ------>
-
 
