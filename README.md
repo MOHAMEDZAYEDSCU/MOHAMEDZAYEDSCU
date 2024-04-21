@@ -18,7 +18,7 @@
 │
 ├─▣ Software Engineer Student at Suez Canal Universite
 ├─▣ From Egypt
-├─▣ Currently learning Python, Microcontroller Interface and Automotive Programming
+├─▣ Currently learning Python, Network and ethical hacking. 
 │
 └─────────────────────────────────▰▰▰
 
