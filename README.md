@@ -9,7 +9,7 @@
 <a href="https://suez.edu.eg/ar/en/"><img align="left" height="94px" width="94px" alt="Suez Canal University" src="https://scu.eg/storage/2023/03/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3.png"/></a>
 **Software Engineering Undergraduate** \
 [**Suez Canal University**](https://suez.edu.eg/ar/en/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9/)  • In progress\
-Skills: `Software Architecture` `Object Oriented Programming` `Software Quality` `Software Security` `Data Structure and Algorithms` `Database Management` `Professional Ethics` `Testing and Debugging`
+Skills: `Software Architecture` `Object Oriented Programming` `Software Quality` `Software Security` `Data Structure and Algorithms` `Professional Ethics` `Testing and Debugging`
 
 <br>
 
